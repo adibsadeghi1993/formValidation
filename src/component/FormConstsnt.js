@@ -11,7 +11,7 @@ export const validationSchema = Yup.object({
     .min(2, "not valid")
 
     .required("required")
-    .max(4, "is long"),
+    .max(15, "is long"),
   mobile: Yup.string()
     .min(9, "not valid")
 

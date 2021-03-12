@@ -1,10 +1,11 @@
-import FormValidation from "./component/FormValidation";
+
 import "./app.css"
+import Login from "./component/Login";
 
 function App() {
   return (
     <div className="app">
-      <FormValidation />
+      <Login/>
     </div>
   );
 }
