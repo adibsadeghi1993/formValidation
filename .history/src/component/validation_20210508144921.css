@@ -1,8 +1,7 @@
 * {
   font-family: Calibri, sans-serif;
-  box-sizing: border-box;
+  
 }
-
 
 .form {
   width: 27%;
@@ -13,8 +12,8 @@
   background-color: white;
   border: 1px solid #ccc;
   border-radius: 5px;
-  /* margin-top:1px; */
-  margin-bottom: 30px;
+  margin-top: 50px;
+  margin-bottom: 20px;
   box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
 }
 

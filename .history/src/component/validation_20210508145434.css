@@ -2,7 +2,9 @@
   font-family: Calibri, sans-serif;
   box-sizing: border-box;
 }
-
+body{
+  height: 100vh;
+}
 
 .form {
   width: 27%;
